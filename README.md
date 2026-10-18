@@ -9,13 +9,10 @@ The Employee Management System provides basic employee record management feature
 ## Dashboard Sreenshot
 <img width="1341" height="633" alt="dashboard" src="https://github.com/user-attachments/assets/90fc05c0-244b-4585-ac57-ee6fb547fa69" />
 
-## Dashboard Preview 
-
-![Employee Management System Dashboard](Screenshots/dashboard.png)
-
 ## Add Employee Page
 
-![Add Employee Page](Screenshots/addemployee.png)
+<img width="1332" height="640" alt="addemployee" src="https://github.com/user-attachments/assets/57f0d886-8b51-44e6-9f24-4cb041a362d7" />
+
 
 ## View Employees Page
 
