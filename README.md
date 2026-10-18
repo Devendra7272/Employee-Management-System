@@ -16,19 +16,22 @@ The Employee Management System provides basic employee record management feature
 
 ## View Employees Page
 
-![View Employees Page](Screenshots/viewemployees.png)
+<img width="1344" height="615" alt="viewemployees" src="https://github.com/user-attachments/assets/20ab2853-51b3-460c-9066-e51d92be8c12" />
+
 
 ## Search Employee Page
 
-![Search Employee Page](Screenshots/searchemployee.png)
+<img width="1319" height="595" alt="searchemployee" src="https://github.com/user-attachments/assets/e441562c-9acc-4569-b1a8-01f1be469517" />
+
 
 ## Update Employee Page
 
-![Update Employee Page](Screenshots/updateemployee.png)
+<img width="668" height="292" alt="updateemployee" src="https://github.com/user-attachments/assets/cc2cd359-6f9e-42c9-af13-64b92918bff8" />
 
 ## Delete Employee Page
 
-![Delete Employee Page](Screenshots/deleteemployee.png)
+<img width="521" height="354" alt="deleteemployee" src="https://github.com/user-attachments/assets/3287fca9-e206-4305-92e5-2a1d2d131ff1" />
+
 
 ## ✨ Features
 
