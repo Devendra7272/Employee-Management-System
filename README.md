@@ -6,6 +6,9 @@ A web-based **Employee Management System** developed using Java Servlets, JSP, J
 
 The Employee Management System provides basic employee record management features, including adding, viewing, searching, updating, and deleting employee information. It follows a Java web application structure with separate components for controllers, data access, models, and database connectivity.
 
+## Dashboard Sreenshot
+<img width="1341" height="633" alt="dashboard" src="https://github.com/user-attachments/assets/90fc05c0-244b-4585-ac57-ee6fb547fa69" />
+
 ## ✨ Features
 
 - **Add Employee** — Add new employee details to the database.
