@@ -9,6 +9,30 @@ The Employee Management System provides basic employee record management feature
 ## Dashboard Sreenshot
 <img width="1341" height="633" alt="dashboard" src="https://github.com/user-attachments/assets/90fc05c0-244b-4585-ac57-ee6fb547fa69" />
 
+## Dashboard Preview 
+
+![Employee Management System Dashboard](Screenshots/dashboard.png)
+
+## Add Employee Page
+
+![Add Employee Page](Screenshots/addemployee.png)
+
+## View Employees Page
+
+![View Employees Page](Screenshots/viewemployees.png)
+
+## Search Employee Page
+
+![Search Employee Page](Screenshots/searchemployee.png)
+
+## Update Employee Page
+
+![Update Employee Page](Screenshots/updateemployee.png)
+
+## Delete Employee Page
+
+![Delete Employee Page](Screenshots/deleteemployee.png)
+
 ## ✨ Features
 
 - **Add Employee** — Add new employee details to the database.
